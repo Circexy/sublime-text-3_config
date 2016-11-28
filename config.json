@@ -1,0 +1,25 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 8,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"match_brackets_angle": true,
+	"mouse_wheel_switches_tabs": true,
+	"shift_tab_unindent": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": false,
+	"word_wrap": true
+}
